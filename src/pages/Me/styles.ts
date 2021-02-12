@@ -21,9 +21,9 @@ export const AboutMeContent = styled.div`
     display:flex;
 
     > img {
-        margin-top:80px;
+        margin-top:130px;
         height: 300px;
-        width: 300px;
+        width: 1200px;
         border-radius:50%;
     }
 `;
