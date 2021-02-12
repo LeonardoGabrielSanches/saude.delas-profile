@@ -30,6 +30,8 @@ const Me : React.FC = () => (
                     mas atualmente fico dividida entre Sorocaba e São Paulo por
                     conta da faculdade. Eu tenho 20 anos e estou no 7º semestre
                     de Medicina na FAM.
+                    <br/>
+                    <br/>
                     Criei o @saude.delas com o objetivo de abordar assuntos
                     sobre saúde, principalmente a saúde feminina, que é a área
                     pela qual sou apaixonada. Além de passar informações de
