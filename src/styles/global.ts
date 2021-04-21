@@ -16,7 +16,21 @@ export default createGlobalStyle`
 
   body, input, button {
     font-family: 'Roboto Slab', serif;
-    font-size: 16px;
+    font-size: 1rem;
+  }
+
+  //Mais ou menos ipad
+  @media (max-width: 1080px){
+    html {
+      font-size: 93.75%;
+    }
+  }
+
+  //mobile
+  @media (max-width: 720px){
+    html {
+      font-size: 87.5%;
+    }
   }
 
   h1, h2, h3, h4, h5, h6, strong {
